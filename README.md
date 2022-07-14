@@ -1,4 +1,5 @@
 - 👋 Hi, I'm Eugene Blogs.
 - 👀 I am interested in creating websites.
 - 💻 I am currently learning how to create websites.
+- ✌ In my repositories you will find some of my projects.
 - 📫 You can contact me by mail mylnikov_evgeniy90@mail.ru.
